@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Software and Web Development field**
+- 👯 I’m looking to collaborate in **Software and Web Development fields**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubhab0709](https://github.com/anubhab0709)
 
