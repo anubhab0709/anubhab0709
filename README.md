@@ -3,15 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cover photo</title>
-
-
-    <style>
-        .image {
-            width: 100%;
-            display: inline-block;
-        }
-    </style>
 </head>
 <body>
     <img class="image" src="./COVER PHOTO.png" alt="cover photo">
