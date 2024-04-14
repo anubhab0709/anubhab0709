@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubhab0709](https://github.com/anubhab0709)
 
-- 💬 Ask me about **Python, C,SQL, HTML,CSS, JavaScript,**
+- 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript,**
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
 - 📄 My resume [https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/anubhab0709/</h3>
 <p align="left">
 <a href="https://twitter.com/devilanubhab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devilanubhab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhab0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhab0709" height="30" width="40" /></a>
