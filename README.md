@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
-- 📄 Know about my experiences [https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)
+- 📄 My reasume [https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
