@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubhab0709](https://github.com/anubhab0709)
 
-- 💬 Ask me about **Python,C,SQL,HTML,CSS,JavaScript,**
+- 💬 Ask me about **Python, C,SQL, HTML,CSS, JavaScript,**
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
-- 📄 My reasume [https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)
+- 📄 My resume [https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
