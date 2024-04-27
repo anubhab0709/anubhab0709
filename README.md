@@ -41,6 +41,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anubhab0709"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhab0709&show_icons=true&locale=en&layout=compact" alt="anubhab0709" /></p>
+<img src="https://camo.githubusercontent.com/46ded544c1bd3e048458f8c7d808400d4389dcd890773b3467a17a6a68f00021/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d72696e6d61792d4e617468267468656d653d746f6b796f6e696768742673686f775f69636f6e733d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709;theme=tokyonight&amp;show_icons=true" style="max-width: 100%;">
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anubhab0709&show_icons=true&locale=en" alt="anubhab0709" /></p>
