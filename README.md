@@ -42,8 +42,8 @@
 <p><a href="https://www.buymeacoffee.com/anubhab0709"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709" /></a></p><be>
 <br>
 
-![anubhab0709's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+![anubhab0709's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
 
-![anubhab0709's Stats](https://github-readme-stats.vercel.app/api?username=anubhab0709&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![anubhab0709's Stats](https://github-readme-stats.vercel.app/api?username=anubhab0709&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
 
-![anubhab0709's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhab0709&theme=vision-friendly-dark&hide_border=false)
+![anubhab0709's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhab0709&theme=slateorange&hide_border=false)
