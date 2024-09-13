@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhab0709&label=Profile%20views&color=0e75b6&style=flat" alt="anubhab0709" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Dev , DSA , Java, Python**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
