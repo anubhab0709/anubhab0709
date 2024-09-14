@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Anubhab Bhattacharjee</h1>
 <h3 align="center">"Computer Science Student | Passionate about Technology and Innovation | Seeking Opportunities in Software and Web Development"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhab0709&label=Profile%20views&color=0e75b6&style=flat" alt="anubhab0709" /> </p>
+[![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Development of AI/ML based solution for detection of face-swap based deep fake videos**
 
