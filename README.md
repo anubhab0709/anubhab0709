@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
-- 📄 My resume [[https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf.pdf)
+- 📄 My resume (https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf)](https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf.pdf)
 
 ## 🌐 Socials:
 <p align="left">
