@@ -33,9 +33,8 @@
 <a href="https://linkedin.com/in/anubhab0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhab0709" height="30" width="40" /></a>
 <a href="https://fb.com/amalanubhab.bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amalanubhab.bhattacharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_anubhab_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_anubhab_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anubhab0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
- 
-
+<a href="https://www.leetcode.com/anubhab0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhab0709" height="30" width="40" /></a>
+###
 </p>
 
 </br>
