@@ -46,14 +46,17 @@
 
 </br>
 
-## 💰 You can help me by Donating
+## 💰 You can help me by Donating:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anubhab2002)
 <p><a href="https://www.buymeacoffee.com/anubhab0709"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709"/></a></p>
 <be>
 <br>
 <br>
 </br>
+</br>
 
+
+## Stats:
 ![anubhab0709's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ![anubhab0709's Stats](https://github-readme-stats.vercel.app/api?username=anubhab0709&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
