@@ -27,6 +27,8 @@
 
 - 📄 My resume <a href ="https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf.pdf">Click Here</a>
 
+</br>
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/devilanubhab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devilanubhab" height="30" width="40" /></a>
