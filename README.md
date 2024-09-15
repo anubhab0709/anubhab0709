@@ -47,7 +47,9 @@
 </br>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/anubhab0709"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709" /></a></p><be>
+<p><a href="https://www.buymeacoffee.com/anubhab0709"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709" /></a></p>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anubhab2002)
+<be>
 <br>
 <br>
 </br>
