@@ -13,7 +13,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Development of AI/ML based solution for detection of face-swap based deep fake videos**
+- 🔭 I’m currently working on **Development of an AI/ML-based solution for the detection of face-swap-based deep fake videos**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
