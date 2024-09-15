@@ -11,6 +11,8 @@
 <h1 align="center">Hi 👋, I'm Anubhab Bhattacharjee</h1>
 <h3 align="center">"Computer Science Student | Passionate about Technology and Innovation | Seeking Opportunities in Software and Web Development"</h3>
 
+</br>
+
 [![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Development of an AI/ML-based solution for the detection of face-swap-based deep fake videos**
