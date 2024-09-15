@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/anubhab0709?tab=repositories
 
-- 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript,Java,DSA**
+- 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript, Java, DSA**
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
