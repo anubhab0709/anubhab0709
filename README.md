@@ -46,7 +46,7 @@
 
 </br>
 
-# 💻 Support:
+<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/anubhab0709"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anubhab0709" /></a></p><be>
 <br>
 <br>
