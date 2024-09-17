@@ -8,7 +8,7 @@
     <img class="image" src="./COVER PHOTO.png" alt="cover photo">
 
 
-<h1 align="center">Hi 👋, I'm Anubhab Bhattacharjee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhab Bhattacharjee</h1>
 </br>
 <h3 align="center">"Computer Science Student | Passionate about Technology and Innovation | Seeking Opportunities in Software and Web Development"</h3>
 
