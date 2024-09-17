@@ -64,3 +64,5 @@
 
 ![anubhab0709's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhab0709&theme=vision-friendly-dark&hide_border=false)
 
+[![](https://raw.githubusercontent.com/anubhab0709/anubhab0709/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
