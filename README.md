@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
-- 📄 My resume <a href ="https://anubhab0709.github.io/portfolio-anubhab.github.io/assets/Anubhab's%20CV%202.pdf.pdf">Click Here</a>
+- 📄 My resume <a href ="https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf">Click Here</a>
 
 </br>
 
