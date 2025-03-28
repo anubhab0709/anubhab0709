@@ -22,13 +22,13 @@
 
 - 👯 I’m looking to collaborate in **Software and Web Development fields**
 
-- 👨‍💻 All of my projects are available <a href = "https://github.com/anubhab0709?tab=repositories">Click Here</a>
+- 👨‍💻 All of my projects are available here just <a href = "https://github.com/anubhab0709?tab=repositories">Click Here</a>
 
 - 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript, Java, DSA**
 
 - 📫 How to reach me **anubhabb7@gmail.com**
 
-- 📄 My resume <a href ="https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf">Click Here</a>
+- 📄 My resume just<a href ="https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf">Click Here</a>
 
 </br>
 
