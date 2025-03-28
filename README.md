@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate in **Software and Web Development fields**
 
-- 👨‍💻 All of my projects are available -> < a href = "https://github.com/anubhab0709?tab=repositories">Click Here</a>
+- 👨‍💻 All of my projects are available <a href = "https://github.com/anubhab0709?tab=repositories">Click Here</a>
 
 - 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript, Java, DSA**
 
