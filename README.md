@@ -1,18 +1,12 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Anubhab%20Bhattacharjee&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Innovator&descAlignY=60&descColor=8b949e" width="100%"/>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+🚀;AI/ML+Enthusiast+🤖;Always+learning%2C+always+building+🔥;Open+to+collaborations+🤝"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
-&nbsp;&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/devilanubhab?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117)](https://twitter.com/devilanubhab)
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2"/>
+</p>
 
 ---
 
@@ -32,24 +26,18 @@ class Anubhab:
     currently_learning   = ["Full Stack Web Development 🌐"]
     looking_to           = ["Collaborate on Software & Web Dev Projects 🤝"]
     ask_me_about         = ["Python", "C", "SQL", "HTML/CSS", "JavaScript", "Java", "DSA"]
-```
-
----
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/anubhab0709"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/devilanubhab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/i_am_anubhab_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://fb.com/amalanubhab.bhattacharjee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/anubhab0709"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://itsanubhab.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhab0709)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devilanubhab)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/i_am_anubhab_)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/amalanubhab.bhattacharjee)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/anubhab0709)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsanubhab.com)
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
@@ -96,33 +84,20 @@ class Anubhab:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhab0709&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709&theme=tokyonight&layout=compact&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anubhab0709&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0709&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anubhab0709&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhab0709&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhab0709&theme=tokyonight&hide_border=true" width="500"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhab0709&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anubhab0709&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
----
 
 ## 💰 Support My Work
 
