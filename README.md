@@ -21,18 +21,23 @@
 
 [![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<br>
+## ⚡ About Me
 
-- 🔭 I’m currently working on **Development of an AI/ML-based solution for the detection of face-swap-based deep fake videos**  
-- 🌱 I’m currently learning **Full Stack Web Development**  
-- 👯 I’m looking to collaborate in **Software and Web Development fields**  
-- 👨‍💻 All of my projects <a href="https://github.com/anubhab0709?tab=repositories">Click Here</a>  
-- 💬 Ask me about **Python, C, SQL, HTML, CSS, JavaScript, Java, DSA**  
-- 📫 How to reach me **anubhabb7@gmail.com**  
-- 📄 My resume <a href="https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf">Click Here</a>  
-
-<br>
-
+```python
+class Anubhab:
+    name       = "Anubhab Bhattacharjee"
+    role       = "Computer Science Student"
+    location   = "India 🇮🇳"
+    email      = "anubhabb7@gmail.com"
+    website    = "https://itsanubhab.com"
+    
+    currently_working_on = [
+        "AI/ML-based Deepfake Video Detection 🎭"
+    ]
+    currently_learning   = ["Full Stack Web Development 🌐"]
+    looking_to           = ["Collaborate on Software & Web Dev Projects 🤝"]
+    ask_me_about         = ["Python", "C", "SQL", "HTML/CSS", "JavaScript", "Java", "DSA"]
+```
 ## 🌐 Connect with Me
 
 <p align="center">
