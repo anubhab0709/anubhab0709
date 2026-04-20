@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+🚀;AI/ML+Enthusiast+🤖;Always+learning%2C+always+building+🔥;Open+to+collaborations+🤝"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2"/>
-</p>
+</p> -->
 
 ---
 
