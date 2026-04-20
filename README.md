@@ -17,9 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">
-"Computer Science Student | Passionate about Technology and Innovation | Seeking Opportunities in Software and Web Development"
-</h3>
+📄 **[Download My Resume](https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf)** &nbsp;|&nbsp; 📬 **[Email Me](mailto:anubhabb7@gmail.com)** &nbsp;|&nbsp; 🌐 **[Visit Portfolio](https://itsanubhab.com)**
 
 <br>
 
