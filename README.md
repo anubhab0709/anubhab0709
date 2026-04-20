@@ -17,7 +17,15 @@
   </a>
 </p>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+<i>"Code is not just syntax — it's a canvas for ideas."</i>
+
 📄 **[Download My Resume](https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf)** &nbsp;|&nbsp; 📬 **[Email Me](mailto:anubhabb7@gmail.com)** &nbsp;|&nbsp; 🌐 **[Visit Portfolio](https://itsanubhab.com)**
+
+</div>
 
 <br>
 
