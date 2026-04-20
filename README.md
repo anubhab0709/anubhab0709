@@ -10,6 +10,7 @@
 <div align="center">
 
 <img class="image" src="./COVER PHOTO.png" alt="cover photo">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
