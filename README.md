@@ -16,8 +16,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborations+%F0%9F%A4%9D" />
   </a>
 </p>
-
-<br>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
@@ -27,6 +25,9 @@
 📄 **[Download My Resume](https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf)** &nbsp;|&nbsp; 📬 **[Email Me](mailto:anubhabb7@gmail.com)** &nbsp;|&nbsp; 🌐 **[Visit Portfolio](https://itsanubhab.com)**
 
 [![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
+</div>
+
+<br>
 
 ## ⚡ About Me
 
