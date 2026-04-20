@@ -18,7 +18,6 @@
 </h3>
 
 <br>
-[![Profile Views](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=anubhab0709&icon=2&color=2)](https://visitcount.itsvg.in)
 
