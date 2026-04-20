@@ -16,25 +16,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+in+the+making+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+collaborations+%F0%9F%A4%9D" />
   </a>
 </p>
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
-
-  <br>
-
-  <div style="display:inline-block; background:#0d1117; padding:15px 25px; border-radius:15px; border:1px solid #30363d;">
-
-    <i>"Code is not just syntax — it's a canvas for ideas."</i>
-
-    <br><br>
-
-    📄 <a href="https://itsanubhab.com/assets/Anubhab_Bhattacharjee_CV.pdf"><b>Download My Resume</b></a>
-    &nbsp;|&nbsp;
-    📬 <a href="mailto:anubhabb7@gmail.com"><b>Email Me</b></a>
-    &nbsp;|&nbsp;
-    🌐 <a href="https://itsanubhab.com"><b>Visit Portfolio</b></a>
-
-  </div>
 
 <br>
 
