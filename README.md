@@ -28,11 +28,6 @@ class Anubhab:
     location   = "India 🇮🇳"
     email      = "anubhabb7@gmail.com"
     website    = "https://itsanubhab.com"
-    
-    currently_working_on = [
-        "AI/ML-based Deepfake Video Detection 🎭"
-    ]
-    currently_learning   = ["Full Stack Web Development 🌐"]
     looking_to           = ["Collaborate on Software & Web Dev Projects 🤝"]
     ask_me_about         = ["Python", "C", "SQL", "HTML/CSS", "JavaScript", "Java", "DSA"]
 ```
